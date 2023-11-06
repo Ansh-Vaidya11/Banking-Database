@@ -1,1 +1,2 @@
 # Banking-Database
+This Project establishes a connection to a MySQL database using Python and provides a command-line interface to interact with multiple tables in a bank database. It defines functions that allow users to insert, delete, and display records in the "Customer," "Branch," "Account," and "Depositor" tables. It also provides a menu-driven interface for users to interact with the database tables. Users can navigate through different menus, such as customer menu, branch menu, etc., and perform database operations based on their choice.
